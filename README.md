@@ -25,7 +25,7 @@ Plus przykład zastosowania.
 1. `npm run test`
 
 # Dodatkowo:
-- zainstaluj Prettier w vscode -> dodaj w settings.json:
+- zainstaluj Prettier w vscode -> dodaj w settings.json (CTRL/STRG + SHIFT + P --> wpisz "OPEN SETTINGS (JSON)" ):
 ```json
 {
     "editor.formatOnPaste": true,
