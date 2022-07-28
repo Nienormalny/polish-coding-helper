@@ -6,8 +6,8 @@ Dokładniej mówiąc, wpisujemy w wyszukiwarkę frazy w tak zwanym języku "na n
 
 ## Dalej nie kapujesz co jest 5?
 ### Przykład:
-Jan: Wpisuje w wyszukiwarke fraze "Wolne miejsce pomiędzy"
-Wyszukiwarka wypluje mu kod w postaci:
+- Janusz internetu wpisuje w wyszukiwarke fraze "Wolne miejsce pomiędzy"
+- Wyszukiwarka wypluje mu kod w postaci:
 ```css
 margin
 margin-left
@@ -17,14 +17,15 @@ margin-bottom
 ```
 Plus przykład zastosowania.
 
-# Uruchomienie:
+# Dla developerów:
+### Uruchomienie:
 1. `npm install`
 2. `npm start` -> wystartuje na `localhost:3000`
 
-# Test:
+### Test:
 1. `npm run test`
 
-# Dodatkowo:
+### Dodatkowo:
 - zainstaluj Prettier w vscode -> dodaj w settings.json (CTRL/STRG + SHIFT + P --> wpisz "OPEN SETTINGS (JSON)" ):
 ```json
 {
